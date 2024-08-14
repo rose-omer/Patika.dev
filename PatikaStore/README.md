@@ -9,6 +9,22 @@
 - Ürün Ekleme: Kullanıcılar, yeni ürünler ekleyebilir ve ürün grubunu seçebilir.
 - Ürün Silme: Kullanıcılar, ürünleri benzersiz numaralarına göre silebilir.
 - Ürün Listeleme: Ürünler, tablo şeklinde konsol ekranında gösterilir ve kullanıcılar markalarına veya benzersiz numaralarına göre filtreleme yapabilir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ID   | Ad          | Marka     | Fiyat   | İndirim Oranı | Stok Miktarı | Özellikler
 -----|-------------|-----------|---------|---------------|--------------|-------------
 1    | Notebook A   | Lenovo    | 5000 TL | %10           | 50           | 8GB RAM, 512 SSD, 14 inç
