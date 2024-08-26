@@ -1,0 +1,18 @@
+{
+  "kullanicilar": [
+    {
+      "tcKimlikNo": "12345678901",
+      "sifre": "sifre1",
+      "adi": "Ahmet",
+      "soyadi": "Yilmaz",
+      "hesapBakiyesi": 5000
+    },
+    {
+      "tcKimlikNo": "23456789012",
+      "sifre": "sifre2",
+      "adi": "Ayse",
+      "soyadi": "Kaya",
+      "hesapBakiyesi": 7000
+    }
+  ]
+}

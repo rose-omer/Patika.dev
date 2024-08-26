@@ -1,0 +1,14 @@
+{
+  "bankaHesaplari": [
+    {
+      "hesapNo": "123456",
+      "hesapSahibiTc": "12345678901",
+      "bakiye": 5000
+    },
+    {
+      "hesapNo": "789012",
+      "hesapSahibiTc": "23456789012",
+      "bakiye": 7000
+    }
+  ]
+}
